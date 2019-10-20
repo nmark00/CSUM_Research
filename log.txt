@@ -1,0 +1,39 @@
+log.txt
+
+First I needed to get pandas library. To install it I ran:
+	sudo easy_install pip
+	pip install --user pandas
+
+Then to get xlrd library for processing excel files:
+	sudo pip install xlrd
+
+To convert dta files to csv, open up python:
+	python
+	import pandas as pd
+	data = pd.io.stata.read_stata('file.dta')
+	data.to_csv('file.csv', encoding='utf-8')
+	quit()
+
+To view csv file:
+	column -s, -t < file.csv  | less -#2 -N -S
+
+Convert xlsx to csv
+	brew install gnumeric
+	
+Get # of rows
+	wc -l filename
+
+Files and their run times:
+mergeIndiv.py : merges 2006IPO_Individiuals and raw_assignee
+	real	3m18.410s
+	user	3m4.741s
+	sys		0m7.457s
+
+mergeIndiv2.py : merges 2006IPO_Individiuals and rawinventor.csv
+
+mergeFirm.py : merges IPORoster_9711 and raw_assignee
+	real	8m4.181s
+	user	7m27.076s
+	sys		0m19.330s
+	
+mergeFirm2.py : merges IPORoster_9711 and rawassignee

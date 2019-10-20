@@ -1,0 +1,32 @@
+,name_first,name_last,uuid,patent_id,assignee_id,rawlocation_id,type,FirmName,sequence,#ofPatents
+0,Roger R.,Adams,dfrssk3mrxqsncgt9742jz83p,9492732,7715688fa70bd3615886dcaa5a6c9a6d,km0w5k0smiw16x11cdlixfmb3,4,,0,1
+1,Stephen,Berger,qba2a0p6ab9t8aknvm6p69r3w,8412111,d1342e4291a01068aeadee9f20f05989,j4gliycttjllg1e1hbveuzyi0,4,,2,1
+2,Christopher,Brown,tlcf39r87xfpcnjziyrmach07,8227674,76cf48e7b583f8d4f88cd0aac1576ab7,orquxpcnnob8sapls4zia7l0m,4,,0,1
+3,Douglas,Cole,vm2wty0638y1tm8anoxlbiner,PP22340,c5427f455d1644b1e187c376c8b25e99,,4,,0,2
+4,Douglas,Cole,ogutqx1zuhlqkp0xvn8ec4wsj,PP22339,c5427f455d1644b1e187c376c8b25e99,,5,,0,2
+5,Michael,Davis,jatm1d9s6sj78k2kawrexzpcd,3936607,4c089f435be08225365f7e6c5f42526e,traml71myrkycnzimuabcravz,4,,0,2
+6,Michael,Davis,5a07my5vq8ct1qio2bs5ldvjm,6386779,4c089f435be08225365f7e6c5f42526e,i86f1ywvpzuljl7zchpk1klyv,4,,0,2
+7,Manuel,Garcia,el3d8u0rv1qc3jqu0sxbfzjxr,5745029,d9d89b8143047618741187d9a166751f,bhy5m6kgoz80btpypkbu4vtwf,5,,0,1
+8,Fumihiro,Kozato,h65zm6a0x8mw7ch2qyaakmz3p,5943036,c6d59260d9fb8f1ffcc9e5c2a992878f,n2zh38z5xney9zw93kehtioh1,4,,1,1
+9,James A.,Mitchell,ltxi0aecyp5dgrmudi4awnvir,6418690,6f14485c146bab82043c5c724107ab6d,qv5ubt6j1btf5osc0ircifb8s,4,,1,1
+10,James G.,Murphy,4bwpdgr0pvjzwvaj2gvredegb,D279594,9a9f4a7f21f2820a3000b66557410f5a,yzyu0orsxdjm741eiktyj8stc,4,,0,1
+11,Andrew D.,Ory,7xdz5v0btf0380mw0xjupg1zs,5140626,71ff174061ffb75667702866722b0386,w3l8pbxkhfxu9c80k7zprew3s,4,,0,1
+12,Richard,Paterson,bf5y2l5akubm46xbqv0363fu9,4821348,6e873d86dc5c6b7fab479fefb8ba1942,9urj2ik3bv9yz5r5x7sae1707,5,,0,1
+13,John,Sawyer,5z7umsglqkwcgrpwoz68ourt3,D270330,0589a8c3c62bc672135f414fb17263d3,rcry61wyt6zkszdcny2a0tl99,4,,0,6
+14,John,Sawyer,hqrn25q92ed2mjdzex5jxpmfu,4370901,0589a8c3c62bc672135f414fb17263d3,njsb9kp9hlij7034e7wk32k27,4,,0,6
+15,John,Sawyer,eq31szt8cup6xjgllad3eyakm,4130152,0589a8c3c62bc672135f414fb17263d3,1kg8973jpba8bzbzcuxd6nhip,14,,0,6
+16,John,Sawyer,wel16n062reybfljdj59xxn1f,4174049,0589a8c3c62bc672135f414fb17263d3,huv59oy1de5rk0j3hdzwcsjwu,4,,0,6
+17,John,Sawyer,hxr66bycpcb57wkl28kek5x0k,4405099,0589a8c3c62bc672135f414fb17263d3,wfx5txndn2zd4pn3f1swaijcv,4,,0,6
+18,John,Sawyer,kdy30czwhcicrypp13dbjjn7p,4423784,0589a8c3c62bc672135f414fb17263d3,p1mbvocif0xwt47jtncit3tef,4,,0,6
+19,John,Sheridan,y1w7kkhv6qhsrgywop7rz7o4w,5128987,1cfc55283d5115f0f227d9a95c1e37b1,unm61jwbihgo3xcp2nh0k510d,4,,0,1
+20,Mark,Smith,playa41mbrhdvfh7je5jwi8wi,D446623,993726d094b8e1cdf1bfda93b317a86e,4r2yy4oxgfavheejritib9she,4,,0,1
+21,Gary,Smith,ansqqmac5rs40ybx17co3ij52,D340942,c332195a80c7759a466c4bcbbe16e59e,jqyw6493ydxb5aa2dmdtk1y1s,4,,1,7
+22,Gary,Smith,bxhlmjbjmgply3aaudib84kai,5253563,c332195a80c7759a466c4bcbbe16e59e,kca4jtjmskekya48hygvnkeu7,14,,1,7
+23,Gary,Smith,b9yhuwds9xuwqu284lmrvurfg,4926735,c332195a80c7759a466c4bcbbe16e59e,2x1s0swlcvd03eeea33qw80p6,4,,1,7
+24,Gary,Smith,ish8war90avc38ff2oxcd4u4i,5398582,c332195a80c7759a466c4bcbbe16e59e,dflo0t30ougghhebcffbun1v8,4,,1,7
+25,Gary,Smith,8hpzjbakb0fexb1aptm7icn7m,D340941,c332195a80c7759a466c4bcbbe16e59e,1my4mxaku03j0undjqgnelohh,12,,1,7
+26,Gary,Smith,ucb7yr98o7lxunplvbf14p9wx,D341847,c332195a80c7759a466c4bcbbe16e59e,zmz8mlkl77polfh46g4h4mw3y,4,,1,7
+27,David,Smith,kc8pl2g64iammb42rq98w9e4f,7232244,e1eb201a102c4d3f90ec1789f81d6394,v3wp0qo5t26n6rj5j7v7thde6,5,,0,1
+28,Gary,Smith,zmeblvae5r399x6pg5q8r4fj5,5291817,c332195a80c7759a466c4bcbbe16e59e,jbafr59aiv249qltjh4qt2dm3,4,,1,7
+29,James,Thompson,q9dyk8l71c03atx5ccj2ge6xs,5452269,0b34d74d3c14e6d748fc32016c3103e1,8uhjy32jvy0kcrwpukzm1jwye,4,,1,2
+30,James,Thompson,8nfo547bmu8v59wlupyghlx46,5343445,0b34d74d3c14e6d748fc32016c3103e1,22tmieda7tk10jdz23vjz83bp,2,,1,2
